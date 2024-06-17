@@ -1,7 +1,5 @@
 # Cool Toolbar Using Flutter
 
-
-
 <table align="center" style="margin: 0px auto;">
   <tr>
     <td style="text-align: center;">
